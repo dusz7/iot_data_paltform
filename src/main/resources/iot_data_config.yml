@@ -1,0 +1,8 @@
+# For Kafka
+TOPIC: iot-edge-streaming
+#PRODUCTION_SPEED: 1
+#CONSUMER_TIMEOUT: 1000
+
+# For Flink
+#WINDOW: 10
+#SLIDE: 1
